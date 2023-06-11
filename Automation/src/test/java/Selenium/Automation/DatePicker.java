@@ -22,7 +22,7 @@ public class DatePicker {
 			//driver.findElement(By.cssSelector("#ctl00_mainContent_view_date1")).click();
 			Thread.sleep(2000);
 			driver.findElement(By.xpath("//a[@class='ui-state-default ui-state-highlight ui-state-active']")).click();
-			
+			//ashish
 	}
 
 }
